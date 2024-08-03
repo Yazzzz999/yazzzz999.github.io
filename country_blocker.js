@@ -1,4 +1,4 @@
-const blockedCountries = ['RU', 'CN', 'KP', 'FR']; // Example: Russia, China, North Korea
+const blockedCountries = ['RU', 'CN', 'KP']; // Example: Russia, China, North Korea
 
 async function checkUserCountry() {
   try {
